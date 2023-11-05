@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vxs.one</title>
+    <link>https://vxs.one/</link>
+    <description>Recent content on vxs.one</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 Vincent Schwalbach</copyright>
+    <atom:link href="https://vxs.one/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resume</title>
+      <link>https://vxs.one/resume/</link>
+      <pubDate>Sun, 05 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://vxs.one/resume/</guid>
+      <description>Experience Compose OHG February 2023 - PresentFulda, DE Full Time System EngineerWorking in 2nd Level support and mainly focused on projects.</description>
+      
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://vxs.one/about/</link>
+      <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://vxs.one/about/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Meet Samson 🐾</title>
+      <link>https://vxs.one/samson/</link>
+      <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://vxs.one/samson/</guid>
+      <description>Hello, I&amp;rsquo;d like to introduce you to a very special part of my life - Samson!</description>
+      
+    </item>
+    
+  </channel>
+</rss>

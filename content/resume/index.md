@@ -28,14 +28,18 @@ layoutBackgroundHeaderSpace: false
 {{< icon "location-dot" >}} Fulda, DE  
 <h3>Full Time System Engineer</h3>
 Working in 2nd Level support and mainly focused on projects.
+
 {{< /timelineItem >}}
 
 {{< timelineItem icon="graduation-cap" header="Apprenticeship" badge="" subheader="August 2020 - January 2023" >}}
 {{< icon "location-dot" >}} Fulda, DE
 <h3>Fachinformatiker für Systemintegration</h3>
+
 {{< /timelineItem >}}
 
 {{< /timeline >}}
+
+
 
 ## Skills
 

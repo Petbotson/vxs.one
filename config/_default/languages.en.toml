@@ -16,7 +16,7 @@ title = "vxs.one"
 [author]
   name = "Vincent Schwalbach"
   image = "img/me.png"
-  headline = "System Engineer | Dog Lover"
+  headline = "System Engineer"
   bio = "21 year old with an incredibly bad music taste"
   links = [
     { email = "mailto:mail@vxs.one" },

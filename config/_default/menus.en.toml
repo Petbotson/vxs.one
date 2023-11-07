@@ -11,17 +11,17 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Samson"
+  name = "samson"
   pageRef = "samson"
   weight = 15
 
 [[main]]
-  name = "About"
+  name = "about"
   pageRef = "about"
   weight = 10
-  
+
 [[main]]
-  name = "Resume"
+  name = "resume"
   pageRef = "resume"
   weight = 5
 

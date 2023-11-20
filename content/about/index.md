@@ -21,6 +21,7 @@ layoutBackgroundHeaderSpace: false
 ---
 Feel free to get in touch if you have questions or if you're interested in leveraging my expertise for your IT needs.
 
+Here is my `GPG` key
 ``` YAML
 This is code
 ```

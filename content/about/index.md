@@ -23,5 +23,5 @@ Feel free to get in touch if you have questions or if you're interested in lever
 
 Here is my `GPG` key
 ``` YAML
-This is code
+apt update && apt upgrade -y
 ```

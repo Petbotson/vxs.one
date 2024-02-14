@@ -19,8 +19,4 @@ showLikes: false
 showAuthor: true
 layoutBackgroundHeaderSpace: false
 ---
-Feel free to get in touch if you have questions or if you're interested in leveraging my expertise for your IT needs.
 
-``` YAML
-apt update && apt upgrade -y
-```

@@ -21,8 +21,6 @@ layoutBackgroundHeaderSpace: false
 
 Hello, I'd like to introduce you to a very special part of my life - Samson!
 
-![Samson Image](/img/samson.jpg)
-
 ## About Samson
 
 Samson is more than just a pet. He's a cherished companion who brings joy, love, and boundless enthusiasm to my life every day. With his striking tri-color coat, expressive eyes, and gentle disposition, Samson has won the hearts of everyone he meets.
@@ -34,9 +32,8 @@ We love going on adventures together, whether it's a leisurely stroll through th
 ### Fun Facts
 
 - **Breed:** Bernese Mountain Dog
-- **Age:** 2 years
-- **Personality:** Friendly, loyal, and always up for a game of fetch.
-- **Favorite Treat:** Peanut butter-filled Kongs (he can't resist them!).
+- **Age:** 3 years
+- **Personality:** Friendly, loyal, and always up for a game of fetch (he always wins).
 
 ### Gallery
 

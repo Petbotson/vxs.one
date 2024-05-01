@@ -39,12 +39,8 @@ Feel free to reach out — I'm always open to connecting and discussing ideas.
 
 ## Skills
 
-### Networking
-{{< keywordList >}}
-{{< keyword icon="fortinet">}} Fortinet {{< /keyword >}} {{< keyword >}} Sophos {{< /keyword >}} {{< keyword icon="cisco">}} Cisco {{< /keyword >}}
-{{< /keywordList >}}
-
-### Hypervisor
-{{< keywordList >}}
-{{< keyword >}} VMware ESXi & vSphere {{< /keyword >}} {{< keyword >}} Hyper-V {{< /keyword >}} {{< keyword icon="proxmox">}} Proxmox {{< /keyword >}}
-{{< /keywordList >}}
+<p align="center">
+  <a>
+    <img src="https://skillicons.dev/icons?i=azure,cloudflare,git,github,linux,nix,kubernetes,docker,ansible,windows,terraform" />
+  </a>
+</p>

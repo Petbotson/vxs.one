@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>vxs.one</title>
-    <link>https://vxs.one/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on vxs.one</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2023 Vincent Schwalbach</copyright>
-    <atom:link href="https://vxs.one/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2024 Vincent Schwalbach</copyright>
+    <lastBuildDate>Sun, 18 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://vxs.one/about/</link>
-      <pubDate>Sun, 12 Nov 2023 00:00:00 +0000</pubDate>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://vxs.one/about/</guid>
-      <description>Feel free to get in touch if you have questions or if you&amp;rsquo;re interested in leveraging my expertise for your IT needs.</description>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Hi there:wave: I&amp;rsquo;m Vincent, a dedicated system engineer.</description>
       
     </item>
     
     <item>
       <title>Meet Samson 🐾</title>
-      <link>https://vxs.one/samson/</link>
+      <link>http://localhost:1313/samson/</link>
       <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://vxs.one/samson/</guid>
+      <guid>http://localhost:1313/samson/</guid>
       <description>Hello, I&amp;rsquo;d like to introduce you to a very special part of my life - Samson!</description>
       
     </item>

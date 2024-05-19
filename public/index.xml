@@ -7,6 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Vincent Schwalbach</copyright>
+<<<<<<< HEAD
     <lastBuildDate>Sun, 18 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
@@ -15,6 +16,16 @@
       
       <guid>http://localhost:1313/about/</guid>
       <description>Hi there:wave: I&amp;rsquo;m Vincent, a dedicated system engineer.</description>
+=======
+    <lastBuildDate>Sun, 12 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sun, 12 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>Warning!</description>
+>>>>>>> 86803d1 (public stuff merge issue)
       
     </item>
     

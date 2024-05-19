@@ -23,24 +23,10 @@ Hi there:wave: I'm Vincent, a dedicated system engineer. I'm deeply passionate a
 
 Feel free to reach out — I'm always open to connecting and discussing ideas.
 
-
-## Experience
-{{< timeline >}}
-
-{{< timelineItem icon="shield" header="System Engineer" badge="2024 - present" subheader="FI Services GmbH" >}}
-
-{{< /timelineItem >}}
-
-{{< timelineItem icon="fire" header="System Administrator" badge="2020-2024" subheader="COMPOSE OHG" >}}
-
-{{< /timelineItem >}}
-
-{{< /timeline >}}
-
 ## Skills
 
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=azure,cloudflare,git,github,linux,nix,kubernetes,docker,ansible,windows,terraform" />
+    <img src="https://skillicons.dev/icons?i=ansible,azure,cloudflare,docker,git,github,linux,nix,terraform,windows&theme=light" />
   </a>
 </p>
